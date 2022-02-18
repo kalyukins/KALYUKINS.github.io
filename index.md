@@ -1,7 +1,7 @@
-<!doctype html>
-<html lang="ru">
+<!DOCTYPE html>
+<html>
 <head>
-  <meta charset="utf-8" />
+  <meta charset="utf-8">
   <title>My site</title>
 </head>
 <body>
